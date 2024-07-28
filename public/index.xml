@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lost For Words</title>
-    <link>https://losfer.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Lost For Words</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-gb</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://losfer.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jul 2024 11:53:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sun, 28 Jul 2024 11:53:01 +0100</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>sanasdlnasdln</description>
+    </item>
   </channel>
 </rss>
