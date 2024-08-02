@@ -2,3 +2,9 @@ baseURL: https://losfer.com
 languageCode: en-gb
 title: Lost For Words
 theme: ["PaperMod"]
+
+sitemap:
+  changeFreq: weekly
+  disable: false
+  filename: sitemap.xml
+  priority: -1
