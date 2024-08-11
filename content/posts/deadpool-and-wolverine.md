@@ -17,7 +17,7 @@ We went for the middle ones, obviously.
 
 !["Deadpool & Wolverine, a Marvel film or something"](/deadpool-wolverine.jpg "Deadpool & Wolverine, a Marvel film or something")
 
-It was a fun film. Just like the others: funny, action-packed, full of off-colour humout, fourth-wall-breaking nods to Fox and Disney and the Marvel universe. Pure silliness.
+It was a fun film. Just like the others: funny, action-packed, full of off-colour humour, fourth-wall-breaking nods to Fox and Disney and the Marvel universe. Pure silliness.
 
 Hugh Jackman was great, a big blob of muscle and sideburns and dramatic turn now and then. He's a good looking man.
 
