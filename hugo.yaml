@@ -3,6 +3,8 @@ languageCode: en-gb
 title: Lost For Words
 theme: ["PaperMod"]
 
+sectionPagesMenu: "main"
+
 sitemap:
   changeFreq: weekly
   disable: false

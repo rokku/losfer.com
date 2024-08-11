@@ -4,22 +4,30 @@
   <url>
     <loc>http://localhost:1313/posts/deadpool-and-wolverine/</loc>
     <lastmod>2024-08-02T21:19:41+01:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-02T21:19:41+01:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-08-02T21:19:41+01:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/posts/ipswich/</loc>
     <lastmod>2024-07-29T20:18:55+01:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
